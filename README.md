@@ -1,6 +1,6 @@
-# Личный проект «{{Глыцко Ирины}}»
+# Личный проект «Глыцко Ирины»
 
-- Студент: [{{Глыцко Ирина}}]({{userProfile}}).
+- Студент: [Глыцко Ирина](https://github.com/IrynaGlytsko/Cat-energy/pull/1).
 - Наставник: [Николай Шабалин](https://github.com/IrynaGlytsko/Cat-energy/pull/1).
 
 ---
