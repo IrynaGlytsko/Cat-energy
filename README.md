@@ -3,7 +3,6 @@
 - Студент: [Глыцко Ирина](https://github.com/IrynaGlytsko/Cat-energy/pull/1).
 - Наставник: [Николай Шабалин](https://github.com/IrynaGlytsko/Cat-energy/pull/1).
 
----
 
 **Обратите внимание, что папка с вашими исходными файлами для работы над проектом — `source/`.**
 
