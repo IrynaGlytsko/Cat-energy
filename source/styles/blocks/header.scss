@@ -1,6 +1,37 @@
+.wrapper {
+  max-width: 280px;
+}
+
+.visually-hidden { /* Универсальный класс для скрытия блоков */
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
 .page__body {
+  max-width: 320px;
+  height: 100vh;
   font-family: "Lato";
-  font-size: 30px;
+  font-weight: 400;
+}
+
+.page__header-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.page__header-nav-list {
+  list-style-type: none;
+}
+
+.burger-menu span {
+  display: block;
 }
 
 .page__title {
@@ -8,6 +39,7 @@
   padding: 0;
   margin: 0;
   font-size: 36px;
-  color: var(--bgWhite);
-  background-color: var(--bgGreen);
+  line-height: 36px;
+  color: #ffffff;
+  font-weight: 400;
 }
